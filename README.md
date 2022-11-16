@@ -1,6 +1,6 @@
 Install NodeJS before executing this project
 
-Dependencies needed
+Dependencies needed:-
 -> ejs
 -> express
 -> mongoose
