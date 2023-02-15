@@ -1,3 +1,7 @@
+It simply shortens the url entered for easier sharing.
+
+
+
 Install NodeJS before executing this project.
 
 Make sure that MongoDB is installed on your machine and that the server is up and running.
